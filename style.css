@@ -1,0 +1,36 @@
+.body_background
+{
+    background-image: url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2019%2F03%2FAvengers-Chinese-Poster-D.jpg") ;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+h2{
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+h3{
+    display: inline-block;
+}
+span{
+    color: black;
+}
+a
+{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}

@@ -1,6 +1,6 @@
 .body_background
 {
-    background-image: url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2019%2F03%2FAvengers-Chinese-Poster-D.jpg") ;
+    background-image: url("https://i.postimg.cc/2y02f4Mj/avenger-bg.jpg") ;
     background-position: center;
     background-size: cover;
 }
@@ -8,6 +8,7 @@
     border-width: 10px;
     background-color: white;
     border-style: ridge;
+    border-color: black;
 }
 h2{
     border-radius: 10px;

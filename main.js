@@ -21,11 +21,12 @@ player_update(){
         });
         canvas.add(player_object);  
     });
-
-
-
-
 }
+
+
+
+
+
 
 function new_image(get_image)
 {
@@ -42,6 +43,13 @@ function new_image(get_image)
 
 	});
 
+}
+
+window.addEventListener("keydown", my_keydown(e))
+
+function my_keydown(e)
+{
+    keyPressed = e.keycode
 }
 
 
